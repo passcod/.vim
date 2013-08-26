@@ -8,11 +8,16 @@ I like to live dangerously.
     # Fork to your own
     $ git clone git@github.com:username/.vim.git ~/.vim
 
+## Usage
+
+    # Find out plugin repo
+    $ cd ~/.vim
+    $ git submodule add git://github.com/user/plugin.git bundle/plugin
 
 ## Contents
 
 - [Handlebars](https://github.com/nono/vim-handlebars)
-
+- [Lightline](https://github.com/itchyny/lightline.vim)
 
 ## License
 
@@ -28,3 +33,6 @@ See `:help license`.
 
 ♡2011 by Bruno Michel. Copying is an act of love. Please copy and share.
 
+### Lightline
+
+MIT License
