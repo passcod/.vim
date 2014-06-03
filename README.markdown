@@ -16,8 +16,11 @@ I like to live dangerously.
 
 ## Contents
 
+- [Coffee Script](https://github.com/kchmck/vim-coffee-script)
 - [Handlebars](https://github.com/nono/vim-handlebars)
 - [Lightline](https://github.com/itchyny/lightline.vim)
+- [Rust](https://github.com/wting/rust.vim)
+- [Skip](https://github.com/jayflo/vim-skip)
 
 ## License
 

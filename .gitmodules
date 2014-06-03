@@ -4,3 +4,12 @@
 [submodule "bundle/lightline.vim"]
 	path = bundle/lightline.vim
 	url = git://github.com/itchyny/lightline.vim.git
+[submodule "bundle/vim-coffee-script"]
+	path = bundle/vim-coffee-script
+	url = git://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/vim-skip"]
+	path = bundle/vim-skip
+	url = git://github.com/jayflo/vim-skip.git
+[submodule "bundle/rust.vim"]
+	path = bundle/rust.vim
+	url = git://github.com/wting/rust.vim.git
