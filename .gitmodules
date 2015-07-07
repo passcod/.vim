@@ -13,3 +13,9 @@
 [submodule "bundle/rust.vim"]
 	path = bundle/rust.vim
 	url = git://github.com/wting/rust.vim.git
+[submodule "bundle/vim-obsession"]
+	path = bundle/vim-obsession
+	url = git://github.com/tpope/vim-obsession.git
+[submodule "bundle/vim-prosession"]
+	path = bundle/vim-prosession
+	url = git://github.com/dhruvasagar/vim-prosession.git
